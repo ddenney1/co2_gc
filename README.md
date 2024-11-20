@@ -1,5 +1,7 @@
 ## These scripts and files are used to analyze fitness and gas exchange measurements in Boechera stricta from the manuscript "Elevated [CO2] and temperature augment gas exchange while depressing the fitness of a montane forb"
 
+Manuscript is available at https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19765
+
 ## Table of Contents 
 * [Datasets](#Datasets)  
    * [Fitness](#Fitness_gc)
